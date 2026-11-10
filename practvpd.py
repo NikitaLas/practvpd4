@@ -63,6 +63,7 @@ def create_array(rows, cols):
         print("Неверный ввод.")
         return None
 
+
 def view_array(matrix):
     """Пункт 3. Просмотр созданного массива"""
 
